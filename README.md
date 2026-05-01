@@ -2,3 +2,4 @@
 
 1. Introduction to Algebra - Peter J. Cameron
 2. A First course in Probability - Sheldon Ross
+3. Linear Algebra for Everyone - Gilbert Strand
