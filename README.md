@@ -9,6 +9,7 @@
 7. Mathematics for Machine Learning - Cheng Soon Ong
 8. Hands-On Large Language Models - Jay Alammar and Maarten Grootendorst
 9. All of Statistics - Larry Wassennan
+10. Deep Learning - Aaron Courville
 
 
 
