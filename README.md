@@ -8,6 +8,7 @@
 6. Build a Large Language Model (From Scratch) SEBASTIAN RASCHKA
 7. Mathematics for Machine Learning - Cheng Soon Ong
 8. Hands-On Large Language Models - Jay Alammar and Maarten Grootendorst
+9. All of Statistics - Larry Wassennan
 
 
 
