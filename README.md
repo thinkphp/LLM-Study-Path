@@ -1,2 +1,3 @@
 # LLM-Study-Path
-LLM-Study-Path
+
+1. Introduction to Algebra
